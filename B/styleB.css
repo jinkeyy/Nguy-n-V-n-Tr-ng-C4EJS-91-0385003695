@@ -1,0 +1,40 @@
+.Lucky{
+    background-color: violet;
+}
+.number{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border-style:  black 1px;
+}
+
+.quayso{
+    height: 40px;
+    width: 110px;
+    background-color: tomato;
+    border-radius: 10px;
+    border: none;
+}
+.quayso:hover{
+    background-color: wheat;
+}
+body{
+    margin: 0;
+    position: relative;
+}
+.bang{
+    position: absolute;
+    top: 400px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.reset{
+    height: 40px;
+    width: 110px;
+    background-color: greenyellow;
+    border-radius: 10px;
+    border: none;
+}
+.reset:hover{
+    background-color: honeydew;
+}
